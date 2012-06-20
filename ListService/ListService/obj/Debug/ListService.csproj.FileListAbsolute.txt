@@ -1,0 +1,5 @@
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListService\obj\Debug\ListService.csprojResolveAssemblyReference.cache
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListService\bin\ListService.dll
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListService\bin\ListService.pdb
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListService\obj\Debug\ListService.dll
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListService\obj\Debug\ListService.pdb
