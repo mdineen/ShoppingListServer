@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 11
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListService", "ListService\ListService.csproj", "{893B171F-566F-45E0-98A0-3AC1C05869B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListServiceTests", "ListServiceTests\ListServiceTests.csproj", "{C95BEAFF-857B-4EC8-852D-784F746B3EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{893B171F-566F-45E0-98A0-3AC1C05869B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{893B171F-566F-45E0-98A0-3AC1C05869B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{893B171F-566F-45E0-98A0-3AC1C05869B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95BEAFF-857B-4EC8-852D-784F746B3EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95BEAFF-857B-4EC8-852D-784F746B3EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95BEAFF-857B-4EC8-852D-784F746B3EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95BEAFF-857B-4EC8-852D-784F746B3EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

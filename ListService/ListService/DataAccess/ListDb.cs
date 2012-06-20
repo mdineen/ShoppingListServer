@@ -15,8 +15,11 @@ namespace ListService.DataAccess
             get 
             {
                 if (_db == null || _db.State != ConnectionState.Open)
-                { _db = new SqlConnection(ConfigurationManager.ConnectionStrings["db"].ConnectionString); }
-                return db;
+                { 
+                    _db = new SqlConnection(ConfigurationManager.ConnectionStrings["db"].ConnectionString);
+                    _db.Open();
+                }
+                return _db;
             } 
         }
     }

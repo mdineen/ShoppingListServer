@@ -1,0 +1,8 @@
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\bin\Debug\ListServiceTests.dll
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\bin\Debug\ListServiceTests.pdb
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\bin\Debug\ListService.dll
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\bin\Debug\ListService.pdb
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\obj\Debug\ListServiceTests.csprojResolveAssemblyReference.cache
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\obj\Debug\ListServiceTests.dll
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\obj\Debug\ListServiceTests.pdb
+D:\Users\Owner\Documents\Visual Studio 11\Projects\ShoppingList\ShoppingListServer\ListService\ListServiceTests\bin\Debug\ListServiceTests.dll.config
